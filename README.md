@@ -1,4 +1,4 @@
-# bamboo-project2
+# licence-plate-detector
 home work for the bamboo geeks program
 
 this specifies the working directory used in this project
